@@ -1,0 +1,5 @@
+Binary Search
+https://jovian.ai/jimmy-nguyen521/python-binary-search-8886f
+
+Binary Search Practice
+https://jovian.ai/jimmy-nguyen521/practice1
